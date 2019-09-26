@@ -1,0 +1,3 @@
+﻿  ProgLoops3_9.cpp
+C:\Users\lorna\source\repos\ProgLoops3.9\ProgLoops3.9\ProgLoops3_9.cpp(22): warning C4715:  'tourHanoi' : les chemins de contrôle ne retournent pas tous une valeur
+  ProgLoops3.9.vcxproj -> C:\Users\lorna\source\repos\ProgLoops3.9\Debug\ProgLoops3.9.exe

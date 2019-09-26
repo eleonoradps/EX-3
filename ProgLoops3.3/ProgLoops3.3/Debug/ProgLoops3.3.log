@@ -1,0 +1,10 @@
+﻿  ProgLoops3_3.cpp
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(51,49): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(51,47): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(56,54): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(56,52): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(61,51): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(61,49): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(70,52): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\lorna\source\repos\ProgLoops3.3\ProgLoops3.3\ProgLoops3_3.cpp(70,50): warning C4244:  'argument' : conversion de 'float' en 'int', perte possible de données
+  ProgLoops3.3.vcxproj -> C:\Users\lorna\source\repos\ProgLoops3.3\Debug\ProgLoops3.3.exe
